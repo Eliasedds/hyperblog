@@ -6,3 +6,5 @@ Se está preparando para poder entender el mercado invertir de
 forma sensata.
 
 Va romperla toda en el futuro.
+
+Esto es una prueba para aprender los conceptos básicos de Git
